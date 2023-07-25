@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-07-25T08:17:42.493Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0" etag="2A5LVXNwCyw6a6EopNw-" version="21.6.5" type="github">
+<mxfile host="app.diagrams.net" modified="2023-07-25T08:49:09.280Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0" etag="KD2YxJkYQA7X5yetsiG0" version="21.6.5" type="github">
   <diagram id="wFE0QG_FPsp0jaGvCLVb" name="Page-1">
     <mxGraphModel dx="1889" dy="545" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -135,11 +135,29 @@
             <mxPoint x="90" y="240" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="owPlEkq8LNf1HrhJctmY-62" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;S3&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+        <mxCell id="owPlEkq8LNf1HrhJctmY-62" value="&lt;div&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;S3&lt;font&gt;&lt;br&gt;&lt;/font&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;Backups&lt;font&gt;&lt;br&gt;&lt;/font&gt;&lt;/font&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="-170" y="180" width="120" height="120" as="geometry" />
         </mxCell>
         <mxCell id="owPlEkq8LNf1HrhJctmY-65" value="Development Environment" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="60" y="188" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="owPlEkq8LNf1HrhJctmY-66" value="Web Tier_AZ1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="220" y="280" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="owPlEkq8LNf1HrhJctmY-67" value="Web Tier_AZ2" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="230" y="620" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="owPlEkq8LNf1HrhJctmY-68" value="App&amp;nbsp; Tier_AZ1" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="440" y="280" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="owPlEkq8LNf1HrhJctmY-69" value="&lt;div&gt;App&amp;nbsp; Tier_AZ2&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="445" y="620" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="owPlEkq8LNf1HrhJctmY-70" value="Data&amp;nbsp; Tier_AZ1" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="665" y="280" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="owPlEkq8LNf1HrhJctmY-71" value="Data&amp;nbsp; Tier_AZ2" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="675" y="620" width="110" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
